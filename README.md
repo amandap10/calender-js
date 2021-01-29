@@ -9,7 +9,7 @@ utilizando JavaScript puro sem bibliotecas.
 - HTML5 Básico ;
 - Javascript;
 
-#### Tutores :
+### Tutores :
 
 - João Rangel;
 - Anthony Rafael Ribeiro;
